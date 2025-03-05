@@ -1,1 +1,1 @@
-# img2
+# JSON for img2.money
